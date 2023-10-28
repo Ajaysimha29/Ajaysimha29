@@ -1,10 +1,36 @@
-- 👋 Hi, I’m @Ajaysimha29
-- 👀 I’m interested in ...Data science 
-- 🌱 I’m currently learning ...data science 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...ajaysimha29@gmail.com
+# Hello, I'm AJAY SIMHA REDDY! 👋
 
-<!---
-Ajaysimha29/Ajaysimha29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate full-stack developer with a strong interest in both frontend and backend technologies. I enjoy working with a diverse range of languages and frameworks to build innovative solutions. Here's a little about me:
+
+## Skills and Technologies
+
+- **Languages:** C, Python, JavaScript
+- **Frameworks:** NumPy, Pandas, PyTorch, TensorFlow
+- **Web Development:** HTML, CSS,Django (and more)
+- **Databases:** MySQL.
+- **Version Control:** Git, GitHub
+- **Miscellaneous:** Docker, REST APIs.
+
+## Interests
+
+I'm enthusiastic about a wide range of domains, including:
+
+- Machine Learning and Artificial Intelligence
+- Web Development and User Interface Design
+- Data Science and Analysis
+- Cloud Computing
+- Open Source Collaboration
+
+## Current Projects
+
+I'm currently working on Student Trading Connections and always open to collaboration and new opportunities. If you'd like to connect or work together on a project, feel free to reach out.
+
+## Get in Touch
+
+Let's connect and explore exciting possibilities together:
+
+- GitHub: https://github.com/Ajaysimha29/Ajaysimha29
+- Email: ajaysimha29@gmail.com
+
+Looking forward to collaborating with the GitHub community!
+
