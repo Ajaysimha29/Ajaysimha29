@@ -31,6 +31,7 @@ Let's connect and explore exciting possibilities together:
 
 - GitHub: https://github.com/Ajaysimha29/Ajaysimha29
 - Email: ajaysimha29@gmail.com
-
+  Portfolio : https://resilient-kleicha-1abc28.netlify.app/
+Linkedin: https://www.linkedin.com/in/ajay-jatprol-6a04ab249/
 Looking forward to collaborating with the GitHub community!
 
